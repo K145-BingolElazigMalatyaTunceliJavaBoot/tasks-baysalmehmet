@@ -7,6 +7,9 @@
 - Intellij idea
 - Postman
 
-bootcamp organizers= [Kodluyoruz](https://https://kodluyoruz.org/).
-bootcamp supporter= [Fırat Kalkınma Ajansı](https://https://fka.gov.tr/)
-bootcamp teacher= [Nesrin Aşan](https://https://github.com/Nesrinasan/)
+bootcamp organizers:[Kodluyoruz](https://kodluyoruz.org/)
+
+bootcamp supporter:[Fırat Kalkınma Ajansı](https://fka.gov.tr/)
+
+bootcamp teacher:[Nesrin Aşan](https://github.com/Nesrinasan/)
+
